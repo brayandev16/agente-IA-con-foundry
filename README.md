@@ -2,8 +2,11 @@
 
 Cliente de consola en Python para interactuar de forma segura con un agente de Inteligencia Artificial ("history-agent") desplegado en Azure AI Projects. Este proyecto sirve como interfaz local para comunicarte directamente con el modelo hospedado en la nube.
 
-> 🎓 **Nota:** Este proyecto fue desarrollado como parte de la ruta de aprendizaje de **Microsoft AI Skills**. Puedes verificar mi certificación oficial [aquí](https://www.credly.com/badges/d77a623a-a3ee-4258-860e-39d86ffb2c38).
+## 🎓 Certificación y Ruta de Aprendizaje
 
+Este proyecto fue desarrollado como caso de estudio práctico para la ruta de aprendizaje de **Microsoft AI Skills**. 
+
+🏆 **Certificación obtenida:** [Ver credencial oficial en Credly](https://www.credly.com/badges/d77a623a-a3ee-4258-860e-39d86ffb2c38)
 ## 🛠️ Con qué se construyó
 
 - **Lenguaje:** Python 3
